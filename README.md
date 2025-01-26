@@ -20,8 +20,6 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ldelvillar&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Lucas's current streak](https://streak-stats.demolab.com/?user=ldelvillar&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
